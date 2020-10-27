@@ -15,7 +15,7 @@ export class DataApiService {
 
  
 
-  apiURL = 'http://localhost:8080/api/auth/';
+  apiURL = 'http://104.198.244.0:8125/api/auth/';
   //apiURL = 'https://valid-decoder-258800.appspot.com/';
   
   
